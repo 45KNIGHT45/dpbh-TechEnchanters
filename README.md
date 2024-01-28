@@ -1,4 +1,4 @@
-# Dark Pattern Detector Chrome Extension
+# Dark Pattern Detector Chrome Extension(ML+CNN)
 
 ## Introduction
 
