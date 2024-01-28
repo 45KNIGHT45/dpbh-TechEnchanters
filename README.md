@@ -1,4 +1,4 @@
-![Logo Banner](./extension_banner.PNG)
+
 <h1 align="center">
 <br>
  Dark Pattern Detector
@@ -29,12 +29,11 @@ Dark patterns are manipulative design elements and techniques which are meant to
  - **Easy to Use UI:** Ability to toggle ON/OFF the extension.
  
 ## Screenshots
- ![E-Commerce Site](./extension_before.PNG)
- ![Dark Patterns Highlighted](./extension_after.PNG)
+ 
 ## Installation
 To install the extension, either clone the repository using
 ```
-git clone https://github.com/SAHIL-KUMAR-EE/fifth-gear.git
+git clone https://github.com/45KNIGHT45/dpbh-TechEnchanters.git
 ```
 Or download the ZIP file by clicking on _Code_ and then ***Download ZIP***
 
