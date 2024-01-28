@@ -38,15 +38,14 @@ if __name__ == "__main__":
             print(name,":",result[name])
         """
         NOTICE: If you want to use one of the examples below, remove
-        any lines containing /*, */ and *-, then remove * from any of the
-        the remaining lines.
+        any lines containing  comments
         """
 
         
         # Example 1: Identify suspicious URLs regardless of Risk Score
 
         if result['suspicious'] == True:
-            booking.com
+            URL = "booking.com"
         
         
 
@@ -71,3 +70,4 @@ if __name__ == "__main__":
         not covered here, please feel free to contact IPQualityScore's support
         team. We'll craft a custom piece of code to meet your requirements.
         """
+print("Thank you for using this program to detect dark pattern buster developed by team 'TECH ENCHANTERS' of Chandigarh University")

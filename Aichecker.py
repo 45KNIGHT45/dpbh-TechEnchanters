@@ -11,9 +11,9 @@ response = requests.post(
 )
 response_Dict = response.json()
 score = response_Dict['score']
-print(f"This sentence is {round(score*100,2)}% likely to be AI generated")
+print(f"This phrase is {round(score*100,2)}% likely to be a Dark Patten, be aware!!!")
 print("Detailed Review:")
 pprint(response.json())
-
+print("Thank you for using this program to detect dark pattern buster developed by team 'TECH ENCHANTERS' of Chandigarh University")
 
 
